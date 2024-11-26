@@ -38,7 +38,7 @@ Welcome to the Book Store repository! Here, you can find a collection of books a
 
 ## Preview
 
-[![Video Preview](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](previews/VID-20241115-WA0006.mp4)
+[![Video Preview](https://github.com/Shiva9570/Book_Store_WebApp_Naanmudhalvan/blob/main/VID-20241115-WA0006.mp4)
 
 ## Usage
 
