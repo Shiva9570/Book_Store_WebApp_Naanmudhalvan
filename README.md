@@ -50,13 +50,9 @@ You can directly view the app demo by clicking on the video preview link.
 
 For queries or additional information:
 
-<a href="mailto:shivendra9570.mishra@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email">
-</a>  
-**shivendra9570.mishra@gmail.com**<a href="https://instagram.com/vierdo.musicx" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram">
-</a>  
-**[@vierdo.musicx](https://instagram.com/vierdo.musicx)**
+mailto:shivendra9570.mishra@gmail.com
+instagram: 
+(https://instagram.com/vierdo.musicx)
 ---
 
 🤝 Contributing
