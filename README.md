@@ -2,11 +2,24 @@
 
 # 🌟 **Book Store Web App - Naanmudhalvan** 🌟
 
-Welcome to the **Book Store Web App Repository**, your go-to place for managing book collections and exploring the preview of our application!
+Welcome to the **Book Store Web App Repository**, your go-to place for managing book collections and exploring the preview of our application!  
 
 ---
 
-## 🚀 **How to Get Started**
+## 📹 **Video Preview**
+Click below to directly play the video preview of the app!  
+[![Video Preview](https://img.icons8.com/color/96/000000/play.png)](https://drive.google.com/file/d/1lVILTZxAW9KFQbsTs9qziVxPN7u5AyDU/view?usp=sharing)
+
+---
+
+## 📂 **Repository Contents**
+- **`books/`**: Contains all book PDFs.
+- **`scripts/`**: Scripts to automate book management tasks.
+- **`previews/`**: Contains preview videos and images.
+
+---
+
+## 🚀 **How to Initiate the Project**
 
 ### Step 1: Clone the Repository
 ```bash
@@ -34,6 +47,7 @@ You can directly view the app demo by clicking on the video preview link.
 
 📧 Contact Information
 
+
 For any queries or additional information:
 
 Email:
@@ -44,9 +58,6 @@ Instagram:
 
 @vierdo.musicx
 
-
-
----
 
 🤝 Contributing
 
@@ -88,19 +99,17 @@ Feel free to explore, contribute, or reach out with any questions!
 
 ---
 
-### Key Improvements:
-1. **Clickable Hyperlinks:**
-   - Your **email** is now clickable, and it will open the default email client.
-   - Your **Instagram username** is linked directly to your Instagram profile.
+### Explanation of Changes
+1. **Image Embedding Code:**
+   - **Email:** Added `<img>` with a link using `https://img.icons8.com/color/48/000000/email.png`.
+   - **Instagram:** Used `<img>` with a link pointing to `https://img.icons8.com/color/48/000000/instagram-new.png`.
 
-2. **Logos:**
-   - The **email logo** links to your email address.
-   - The **Instagram logo** links to your Instagram page.
+2. **Clickable Links:**  
+   Icons now link directly to the email client or Instagram profile.
 
-3. **Styling:**  
-   Icons improve the visual appeal and usability of the contact section.
+### How It Works
+- GitHub allows embedding remote images in README files using HTML `<img>` tags.
+- Icons are sourced from [Icons8](https://icons8.com/), a reliable source for free icons.
 
----
-
-This README.md file is fully functional and styled for GitHub. Let me know if you need further changes!
+You can now copy-paste this code, and the logos will appear in your README file. Let me know if you need further assistance!
 
