@@ -13,6 +13,22 @@ Click below to directly play the video preview of the app!
 ---
 
 ## 📂 **Repository Contents**
+- **`src/`**: Source code for the web application, including frontend and backend.
+- **`scripts/`**: Automation scripts for setting up the project and managing online book data.
+- **`static/`**: Static assets such as stylesheets, JavaScript, and images.
+- **`templates/`**: HTML templates for rendering the web pages.
+- **`database/`**: SQLite database to store book details, user accounts, and order information.
+
+---
+
+## 🚀 **How to Execute the Project**
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/Shiva9570/Book_Store_WebApp_Naanmudhalvan.git
+cd Book_Store_WebApp_Naanmudhalvan
+
+## 📂 **Repository Contents**
 - **`books/`**: Contains all book PDFs.
 - **`scripts/`**: Scripts to automate book management tasks.
 - **`previews/`**: Contains preview videos and images.
